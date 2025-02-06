@@ -74,9 +74,9 @@ https://sub2.facebook.com
 https://sub3.facebook.com
 ```
 
-Você também pode fazer o download da lista de subdomínios clicando no link abaixo:
+Você também pode fazer o download da lista de subdomínios:
 
-[Baixar lista de subdomínios (TXT)](subdominios.txt)
+[Nome do arquivo (TXT)](subdominios.txt)
 
 ## Problemas Conhecidos
 
