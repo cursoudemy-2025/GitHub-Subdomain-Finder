@@ -18,7 +18,7 @@ Antes de executar o script, você precisa garantir que tenha os seguintes requis
    Se você ainda não tem o repositório clonado em sua máquina, use o seguinte comando no terminal:
 
    ```bash
-   git clone https://github.com/usuario/gh-subdomain-finder.git](https://github.com/cursoudemy-2025/GitHub-Subdomain-Finder.git
+   git clone https://github.com/cursoudemy-2025/GitHub-Subdomain-Finder.git
    ```
 
 2. **Obtenha o Token de Acesso Pessoal do GitHub**
