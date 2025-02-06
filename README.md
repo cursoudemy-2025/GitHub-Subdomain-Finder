@@ -53,7 +53,7 @@ Antes de executar o script, você precisa garantir que tenha os seguintes requis
    - Instale o XAMPP [aqui](https://www.apachefriends.org/pt_br/index.html).
    - Abra o XAMPP e inicie o Apache.
    - Coloque o script PHP no diretório `htdocs` dentro do diretório onde o XAMPP foi instalado.
-   - Acesse o script através do navegador, indo até `http://localhost/nome_do_repositorio/index.php`.
+   - Acesse o script através do navegador, indo até `http://localhost/nome_do_repositorio/GitHub-Subdomain-Finder.php`.
 
 ## Como Funciona
 
@@ -83,6 +83,3 @@ Você também pode fazer o download da lista de subdomínios:
 - Certifique-se de que seu token de acesso do GitHub tem permissões suficientes para acessar os repositórios da organização.
 - O script pode não funcionar corretamente se não houver subdomínios encontrados ou se a organização não contiver repositórios com o domínio especificado.
 
-## Contribua
-
-Sinta-se à vontade para contribuir com melhorias ou sugestões para este projeto! Basta abrir um **pull request** ou **issue**.
